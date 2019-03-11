@@ -1,5 +1,5 @@
 # cBlocks Visualizer Bundle
-This repository is the result of the Webpack build process of the [cBlocks Visualizer](test.com) repository. This is all you need in order to use the Visualizer. If you want to have a look at the code please follow the link above. 
+This repository is the result of the Webpack build process of the [cBlocks Visualizer](https://github.com/informatik-mannheim/cblocks-visualizer) repository. This is all you need in order to use the Visualizer. If you want to have a look at the code please follow the link above. 
 
 This repository was created solely for convenience's sake. Feel free to clone, install and build the above repo if you want to be on the safe side.
 
